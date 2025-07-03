@@ -4,8 +4,11 @@
   "description": "**URL**: https://lovable.dev/projects/54476ad4-586e-4a56-ab75-57480b9d100e",
   "main": "eslint.config.js",
   "devDependencies": {
-  "vite": "^7.0.0",
-  "@vitejs/plugin-react-swc": "^3.1.0" 
+    "@vitejs/plugin-react-swc": "^3.10.2",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.11",
+    "vite": "^7.0.0"
   },
   "scripts": {
     "dev": "vite",
