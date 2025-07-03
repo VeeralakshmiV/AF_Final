@@ -4,6 +4,7 @@
   "description": "**URL**: https://lovable.dev/projects/54476ad4-586e-4a56-ab75-57480b9d100e",
   "main": "eslint.config.js",
   "devDependencies": {
+    "@vitejs/plugin-react-swc": "^3.10.2",
     "vite": "^7.0.0"
   },
   "scripts": {
