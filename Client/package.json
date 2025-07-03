@@ -1,6 +1,7 @@
 {
   "name": "af_final",
   "version": "1.0.0",
+  "type": "module",
   "description": "**URL**: https://lovable.dev/projects/54476ad4-586e-4a56-ab75-57480b9d100e",
   "main": "eslint.config.js",
   "devDependencies": {
