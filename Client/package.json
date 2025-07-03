@@ -24,5 +24,9 @@
   "bugs": {
     "url": "https://github.com/VeeralakshmiV/AF_Final/issues"
   },
-  "homepage": "https://github.com/VeeralakshmiV/AF_Final#readme"
+  "homepage": "https://github.com/VeeralakshmiV/AF_Final#readme",
+    "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
 }
