@@ -1,0 +1,22 @@
+{
+  "name": "af_final",
+  "version": "1.0.0",
+  "description": "**URL**: https://lovable.dev/projects/54476ad4-586e-4a56-ab75-57480b9d100e",
+  "main": "eslint.config.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VeeralakshmiV/AF_Final.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/VeeralakshmiV/AF_Final/issues"
+  },
+  "homepage": "https://github.com/VeeralakshmiV/AF_Final#readme"
+}
