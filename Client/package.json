@@ -24,7 +24,8 @@
   "bugs": {
     "url": "https://github.com/VeeralakshmiV/AF_Final/issues"
   },
-  "homepage": "https://github.com/VeeralakshmiV/AF_Final#readme"
-   "dependencies": {
+  "homepage": "https://github.com/VeeralakshmiV/AF_Final#readme",
+  "dependencies": {
     "lovable-tagger": "^1.1.8"
+  }
 }
